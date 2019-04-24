@@ -18,5 +18,5 @@
      forwardPorts = [
        { destination = "192.168.122.101:22"; sourcePort = 11122;}
      ];
-  }
+  };
 }

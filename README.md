@@ -10,7 +10,7 @@ to import all of the provided modules.
 ```nix
   imports = [
     "${builtins.fetchTarball https://github.com/vpsfreecz/nixos-modules/archive/master.tar.gz}"
-  ]
+  ];
 ```
 
 ## Provided modules
